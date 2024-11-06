@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { FaFacebook } from "react-icons/fa";
 import { FcGoogle } from "react-icons/fc";
-import login_art from '../assets/login_art.png';
+import login_art from '../assets/images/login_art.png';
 
 const Login = () => {
   const [isSignUp, setIsSignUp] = useState(false);
